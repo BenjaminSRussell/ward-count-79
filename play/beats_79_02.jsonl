@@ -740,3 +740,6 @@
 {"n":740,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at the Lot. Nobody past the west yard. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":741,"kind":"place","name":"the Lot west yard","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"the Lot west yard. Nia keeps the crate for the wipe. 2 steps, arc on the left lane, open."}
 {"n":742,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, west yard. arc left open. 3 steps. The crate stays for the wipe."}
+{"n":743,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the crate at the Lot. Nobody past the west yard. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":744,"kind":"place","name":"the Lot west yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot west yard. Ivo keeps the crate for the wipe. 5 steps, arc on the left lane, open."}
+{"n":745,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west yard. arc left open. 6 steps. The crate stays for the wipe."}
