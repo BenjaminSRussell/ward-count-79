@@ -397,3 +397,6 @@
 {"n":397,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west yard. arc left open. 8 steps. The hydrant stays for the wipe."}
 {"n":398,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at Kessler alley. Nobody past the west yard. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":399,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Kessler alley west yard. Bess keeps the hydrant for the wipe. 3 steps, arc on the left lane, open."}
+{"n":400,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west yard. arc left open. 4 steps. The hydrant stays for the wipe."}
+{"n":401,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at the Lot. Nobody past the west yard. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":402,"kind":"place","name":"the Lot west yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Lot west yard. Matt keeps the hydrant for the wipe. 6 steps, arc on the left lane, open."}
