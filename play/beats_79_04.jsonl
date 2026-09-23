@@ -261,3 +261,6 @@
 {"n":261,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Stockyard fence. Nobody past the east yard. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":262,"kind":"place","name":"Stockyard fence east yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Stockyard fence east yard. Matt keeps the plywood for the wipe. 4 steps, arc on the left lane, open."}
 {"n":263,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, east yard. arc left open. 5 steps. The plywood stays for the wipe."}
+{"n":264,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at Stockyard fence. Nobody past the east yard. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":265,"kind":"place","name":"Stockyard fence east yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Stockyard fence east yard. Nia keeps the plywood for the wipe. 7 steps, arc on the left lane, open."}
+{"n":266,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east yard. arc left open. 8 steps. The plywood stays for the wipe."}
