@@ -291,3 +291,6 @@
 {"n":291,"kind":"place","name":"Mall court east yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court east yard. Bess keeps the rope for the wipe. 4 steps, arc on the left lane, open."}
 {"n":292,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east yard. arc left open. 5 steps. The rope stays for the wipe."}
 {"n":293,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at the Underpass. Nobody past the east yard. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":294,"kind":"place","name":"the Underpass east yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass east yard. Matt keeps the rope for the wipe. 7 steps, arc on the left lane, open."}
+{"n":295,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east yard. arc left open. 8 steps. The rope stays for the wipe."}
+{"n":296,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rope at the Underpass. Nobody past the east yard. We wipe in 2 steps. Arc on the left lane, open."}
