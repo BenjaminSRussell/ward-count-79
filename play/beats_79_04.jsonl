@@ -498,3 +498,6 @@
 {"n":498,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at South stair. Nobody past the east yard. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":499,"kind":"place","name":"South stair east yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair east yard. Bess keeps the hydrant for the wipe. 3 steps, arc on the left lane, open."}
 {"n":500,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east yard. arc left open. 4 steps. The hydrant stays for the wipe."}
+{"n":501,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at the pier. Nobody past the east yard. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":502,"kind":"place","name":"the pier east yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier east yard. Matt keeps the hydrant for the wipe. 6 steps, arc on the left lane, open."}
+{"n":503,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, east yard. arc left open. 7 steps. The hydrant stays for the wipe."}
