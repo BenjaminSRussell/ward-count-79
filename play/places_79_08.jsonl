@@ -922,3 +922,6 @@
 {"n":922,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south yard. arc left open. 2 steps. The crate stays for the wipe."}
 {"n":923,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the crate at High line. Nobody past the south yard. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":924,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line south yard. Ivo keeps the crate for the wipe. 4 steps, arc on the left lane, open."}
+{"n":925,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south yard. arc left open. 5 steps. The crate stays for the wipe."}
+{"n":926,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at High line. Nobody past the south yard. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":927,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line south yard. Bess keeps the crate for the wipe. 7 steps, arc on the left lane, open."}
