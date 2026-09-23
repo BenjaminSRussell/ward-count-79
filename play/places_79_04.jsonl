@@ -458,3 +458,6 @@
 {"n":458,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east yard. arc left open. 4 steps. The hydrant stays for the wipe."}
 {"n":459,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the hydrant at the Underpass. Nobody past the east yard. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":460,"kind":"place","name":"the Underpass east yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Underpass east yard. Ivo keeps the hydrant for the wipe. 6 steps, arc on the left lane, open."}
+{"n":461,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, east yard. arc left open. 7 steps. The hydrant stays for the wipe."}
+{"n":462,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at the Underpass. Nobody past the east yard. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":463,"kind":"place","name":"the Underpass east yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Underpass east yard. Bess keeps the hydrant for the wipe. 2 steps, arc on the left lane, open."}
