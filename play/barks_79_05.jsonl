@@ -309,3 +309,6 @@
 {"n":309,"kind":"place","name":"Mast yard east yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mast yard east yard. Nia keeps the rope for the wipe. 8 steps, arc on the left lane, open."}
 {"n":310,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, east yard. arc left open. 2 steps. The rope stays for the wipe."}
 {"n":311,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rope at Mast yard. Nobody past the east yard. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":312,"kind":"place","name":"Mast yard east yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mast yard east yard. Ivo keeps the rope for the wipe. 4 steps, arc on the left lane, open."}
+{"n":313,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east yard. arc left open. 5 steps. The rope stays for the wipe."}
+{"n":314,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rope at Mast yard. Nobody past the east yard. We wipe in 6 steps. Arc on the left lane, open."}
