@@ -868,3 +868,6 @@
 {"n":868,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south yard. arc left open. 4 steps. The crate stays for the wipe."}
 {"n":869,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at the pier. Nobody past the south yard. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":870,"kind":"place","name":"the pier south yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the pier south yard. Matt keeps the crate for the wipe. 6 steps, arc on the left lane, open."}
+{"n":871,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south yard. arc left open. 7 steps. The crate stays for the wipe."}
+{"n":872,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at the pier. Nobody past the south yard. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":873,"kind":"place","name":"the pier south yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the pier south yard. Nia keeps the crate for the wipe. 2 steps, arc on the left lane, open."}
