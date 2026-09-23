@@ -845,3 +845,6 @@
 {"n":845,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Switchyard. Nobody past the west yard. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":846,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Switchyard west yard. Matt keeps the crate for the wipe. 2 steps, arc on the left lane, open."}
 {"n":847,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west yard. arc left open. 3 steps. The crate stays for the wipe."}
+{"n":848,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at Switchyard. Nobody past the west yard. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":849,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard west yard. Nia keeps the crate for the wipe. 5 steps, arc on the left lane, open."}
+{"n":850,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, west yard. arc left open. 6 steps. The crate stays for the wipe."}
