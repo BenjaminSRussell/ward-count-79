@@ -726,3 +726,6 @@
 {"n":726,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at Switchyard. Nobody past the north yard. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":727,"kind":"place","name":"Switchyard north yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard north yard. Bess keeps the awning for the wipe. 4 steps, arc on the left lane, open."}
 {"n":728,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north yard. arc left open. 5 steps. The awning stays for the wipe."}
+{"n":729,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Drydock. Nobody past the north yard. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":730,"kind":"place","name":"Drydock north yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock north yard. Matt keeps the awning for the wipe. 7 steps, arc on the left lane, open."}
+{"n":731,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north yard. arc left open. 8 steps. The awning stays for the wipe."}
