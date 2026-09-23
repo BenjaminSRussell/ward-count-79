@@ -575,3 +575,6 @@
 {"n":575,"kind":"place","name":"Switchyard south yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard south yard. Bess keeps the shutter for the wipe. 4 steps, arc on the left lane, open."}
 {"n":576,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south yard. arc left open. 5 steps. The shutter stays for the wipe."}
 {"n":577,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at Drydock. Nobody past the south yard. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":578,"kind":"place","name":"Drydock south yard","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock south yard. Matt keeps the shutter for the wipe. 7 steps, arc on the left lane, open."}
+{"n":579,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south yard. arc left open. 8 steps. The shutter stays for the wipe."}
+{"n":580,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the shutter at Drydock. Nobody past the south yard. We wipe in 2 steps. Arc on the left lane, open."}
