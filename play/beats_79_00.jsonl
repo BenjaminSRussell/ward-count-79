@@ -70,3 +70,6 @@
 {"n":70,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at Stockyard fence. Nobody past the north slip. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":71,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence north slip. Bess keeps the radio coil for the wipe. 6 steps, arc on the left lane, open."}
 {"n":72,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north slip. arc left open. 7 steps. The radio coil stays for the wipe."}
+{"n":73,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Mall court. Nobody past the north slip. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":74,"kind":"place","name":"Mall court north slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court north slip. Matt keeps the radio coil for the wipe. 2 steps, arc on the left lane, open."}
+{"n":75,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, north slip. arc left open. 3 steps. The radio coil stays for the wipe."}
