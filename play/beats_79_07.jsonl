@@ -810,3 +810,6 @@
 {"n":810,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at Mall court. Nobody past the north yard. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":811,"kind":"place","name":"Mall court north yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court north yard. Bess keeps the drum for the wipe. 4 steps, arc on the left lane, open."}
 {"n":812,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north yard. arc left open. 5 steps. The drum stays for the wipe."}
+{"n":813,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at the Underpass. Nobody past the north yard. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":814,"kind":"place","name":"the Underpass north yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass north yard. Matt keeps the drum for the wipe. 7 steps, arc on the left lane, open."}
+{"n":815,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, north yard. arc left open. 8 steps. The drum stays for the wipe."}
