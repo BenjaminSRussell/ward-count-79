@@ -967,3 +967,6 @@
 {"n":967,"kind":"place","name":"Stockyard fence north yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Stockyard fence north yard. Bess keeps the badge door for the wipe. 6 steps, arc on the left lane, open."}
 {"n":968,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north yard. arc left open. 7 steps. The badge door stays for the wipe."}
 {"n":969,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Mall court. Nobody past the north yard. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":970,"kind":"place","name":"Mall court north yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mall court north yard. Matt keeps the badge door for the wipe. 2 steps, arc on the left lane, open."}
+{"n":971,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, north yard. arc left open. 3 steps. The badge door stays for the wipe."}
+{"n":972,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the badge door at Mall court. Nobody past the north yard. We wipe in 4 steps. Arc on the left lane, open."}
