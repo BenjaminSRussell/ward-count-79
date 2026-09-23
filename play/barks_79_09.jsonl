@@ -494,3 +494,6 @@
 {"n":494,"kind":"place","name":"the Underpass south yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass south yard. Matt keeps the shutter for the wipe. 7 steps, arc on the left lane, open."}
 {"n":495,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south yard. arc left open. 8 steps. The shutter stays for the wipe."}
 {"n":496,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the shutter at the Underpass. Nobody past the south yard. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":497,"kind":"place","name":"the Underpass south yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the Underpass south yard. Nia keeps the shutter for the wipe. 3 steps, arc on the left lane, open."}
+{"n":498,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south yard. arc left open. 4 steps. The shutter stays for the wipe."}
+{"n":499,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the shutter at the Underpass. Nobody past the south yard. We wipe in 5 steps. Arc on the left lane, open."}
