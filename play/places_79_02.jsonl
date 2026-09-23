@@ -589,3 +589,6 @@
 {"n":589,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, west yard. arc left open. 4 steps. The barrel stays for the wipe."}
 {"n":590,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Stockyard fence. Nobody past the west yard. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":591,"kind":"place","name":"Stockyard fence west yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence west yard. Bess keeps the barrel for the wipe. 6 steps, arc on the left lane, open."}
+{"n":592,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, west yard. arc left open. 7 steps. The barrel stays for the wipe."}
+{"n":593,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Mall court. Nobody past the west yard. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":594,"kind":"place","name":"Mall court west yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court west yard. Matt keeps the barrel for the wipe. 2 steps, arc on the left lane, open."}
