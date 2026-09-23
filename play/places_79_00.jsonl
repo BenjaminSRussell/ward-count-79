@@ -672,3 +672,6 @@
 {"n":672,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, south slip. arc left open. 5 steps. The barrel stays for the wipe."}
 {"n":673,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Drydock. Nobody past the south slip. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":674,"kind":"place","name":"Drydock south slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Drydock south slip. Matt keeps the barrel for the wipe. 7 steps, arc on the left lane, open."}
+{"n":675,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, south slip. arc left open. 8 steps. The barrel stays for the wipe."}
+{"n":676,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at Drydock. Nobody past the south slip. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":677,"kind":"place","name":"Drydock south slip","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Drydock south slip. Nia keeps the barrel for the wipe. 3 steps, arc on the left lane, open."}
