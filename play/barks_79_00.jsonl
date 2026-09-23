@@ -992,3 +992,6 @@
 {"n":992,"kind":"place","name":"Clinic roof south slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof south slip. Ivo keeps the lamp for the wipe. 3 steps, arc on the left lane, open."}
 {"n":993,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south slip. arc left open. 4 steps. The lamp stays for the wipe."}
 {"n":994,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at Clinic roof. Nobody past the south slip. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":995,"kind":"place","name":"Clinic roof south slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Clinic roof south slip. Bess keeps the lamp for the wipe. 6 steps, arc on the left lane, open."}
+{"n":996,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, south slip. arc left open. 7 steps. The lamp stays for the wipe."}
+{"n":997,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Switchyard. Nobody past the south slip. We wipe in 8 steps. Arc on the left lane, open."}
