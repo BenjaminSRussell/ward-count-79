@@ -433,3 +433,6 @@
 {"n":433,"kind":"place","name":"Stockyard fence east yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Stockyard fence east yard. Nia keeps the hydrant for the wipe. 7 steps, arc on the left lane, open."}
 {"n":434,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, east yard. arc left open. 8 steps. The hydrant stays for the wipe."}
 {"n":435,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the hydrant at Stockyard fence. Nobody past the east yard. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":436,"kind":"place","name":"Stockyard fence east yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Stockyard fence east yard. Ivo keeps the hydrant for the wipe. 3 steps, arc on the left lane, open."}
+{"n":437,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, east yard. arc left open. 4 steps. The hydrant stays for the wipe."}
+{"n":438,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at Stockyard fence. Nobody past the east yard. We wipe in 5 steps. Arc on the left lane, open."}
