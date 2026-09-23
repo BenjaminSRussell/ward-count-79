@@ -628,3 +628,6 @@
 {"n":628,"kind":"place","name":"Stockyard fence north yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Stockyard fence north yard. Ivo keeps the awning for the wipe. 3 steps, arc on the left lane, open."}
 {"n":629,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Stockyard fence, north yard. arc left open. 4 steps. The awning stays for the wipe."}
 {"n":630,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at Stockyard fence. Nobody past the north yard. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":631,"kind":"place","name":"Stockyard fence north yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Stockyard fence north yard. Bess keeps the awning for the wipe. 6 steps, arc on the left lane, open."}
+{"n":632,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north yard. arc left open. 7 steps. The awning stays for the wipe."}
+{"n":633,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Mall court. Nobody past the north yard. We wipe in 8 steps. Arc on the left lane, open."}
