@@ -879,3 +879,6 @@
 {"n":879,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the crate at Drydock. Nobody past the east yard. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":880,"kind":"place","name":"Drydock east yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Drydock east yard. Ivo keeps the crate for the wipe. 6 steps, arc on the left lane, open."}
 {"n":881,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, east yard. arc left open. 7 steps. The crate stays for the wipe."}
+{"n":882,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at Drydock. Nobody past the east yard. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":883,"kind":"place","name":"Drydock east yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Drydock east yard. Bess keeps the crate for the wipe. 2 steps, arc on the left lane, open."}
+{"n":884,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, east yard. arc left open. 3 steps. The crate stays for the wipe."}
