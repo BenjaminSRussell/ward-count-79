@@ -217,3 +217,6 @@
 {"n":217,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Drydock. Nobody past the east yard. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":218,"kind":"place","name":"Drydock east yard","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock east yard. Matt keeps the radio coil for the wipe. 7 steps, arc on the left lane, open."}
 {"n":219,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, east yard. arc left open. 8 steps. The radio coil stays for the wipe."}
+{"n":220,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at Drydock. Nobody past the east yard. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":221,"kind":"place","name":"Drydock east yard","place_kind":"alley","dressing":"barrels","speaker":"Nia","line":"Drydock east yard. Nia keeps the radio coil for the wipe. 3 steps, arc on the left lane, open."}
+{"n":222,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, east yard. arc left open. 4 steps. The radio coil stays for the wipe."}
