@@ -160,3 +160,6 @@
 {"n":160,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south slip. arc left open. 2 steps. The radio coil stays for the wipe."}
 {"n":161,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Clinic roof. Nobody past the south slip. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":162,"kind":"place","name":"Clinic roof south slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof south slip. Matt keeps the radio coil for the wipe. 4 steps, arc on the left lane, open."}
+{"n":163,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south slip. arc left open. 5 steps. The radio coil stays for the wipe."}
+{"n":164,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at Clinic roof. Nobody past the south slip. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":165,"kind":"place","name":"Clinic roof south slip","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Clinic roof south slip. Nia keeps the radio coil for the wipe. 7 steps, arc on the left lane, open."}
