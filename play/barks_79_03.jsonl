@@ -62,3 +62,6 @@
 {"n":62,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley west yard. Matt keeps the rebar for the wipe. 8 steps, arc on the left lane, open."}
 {"n":63,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west yard. arc left open. 2 steps. The rebar stays for the wipe."}
 {"n":64,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rebar at Kessler alley. Nobody past the west yard. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":65,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley west yard. Nia keeps the rebar for the wipe. 4 steps, arc on the left lane, open."}
+{"n":66,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west yard. arc left open. 5 steps. The rebar stays for the wipe."}
+{"n":67,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rebar at Kessler alley. Nobody past the west yard. We wipe in 6 steps. Arc on the left lane, open."}
