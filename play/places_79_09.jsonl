@@ -465,3 +465,6 @@
 {"n":465,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south yard. arc left open. 6 steps. The shutter stays for the wipe."}
 {"n":466,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at the Lot. Nobody past the south yard. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":467,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot south yard. Bess keeps the shutter for the wipe. 8 steps, arc on the left lane, open."}
+{"n":468,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south yard. arc left open. 2 steps. The shutter stays for the wipe."}
+{"n":469,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at Stockyard fence. Nobody past the south yard. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":470,"kind":"place","name":"Stockyard fence south yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Stockyard fence south yard. Matt keeps the shutter for the wipe. 4 steps, arc on the left lane, open."}
