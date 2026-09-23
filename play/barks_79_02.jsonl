@@ -276,3 +276,6 @@
 {"n":276,"kind":"place","name":"the Underpass west yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass west yard. Ivo keeps the plywood for the wipe. 6 steps, arc on the left lane, open."}
 {"n":277,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, west yard. arc left open. 7 steps. The plywood stays for the wipe."}
 {"n":278,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at the Underpass. Nobody past the west yard. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":279,"kind":"place","name":"the Underpass west yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass west yard. Bess keeps the plywood for the wipe. 2 steps, arc on the left lane, open."}
+{"n":280,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, west yard. arc left open. 3 steps. The plywood stays for the wipe."}
+{"n":281,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Mast yard. Nobody past the west yard. We wipe in 4 steps. Arc on the left lane, open."}
