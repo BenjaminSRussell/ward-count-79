@@ -901,3 +901,6 @@
 {"n":901,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Kessler alley. Nobody past the west yard. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":902,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Kessler alley west yard. Matt keeps the badge door for the wipe. 8 steps, arc on the left lane, open."}
 {"n":903,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west yard. arc left open. 2 steps. The badge door stays for the wipe."}
+{"n":904,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the badge door at Kessler alley. Nobody past the west yard. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":905,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Kessler alley west yard. Nia keeps the badge door for the wipe. 4 steps, arc on the left lane, open."}
+{"n":906,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Kessler alley, west yard. arc left open. 5 steps. The badge door stays for the wipe."}
