@@ -238,3 +238,6 @@
 {"n":238,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at High line. Nobody past the east yard. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":239,"kind":"place","name":"High line east yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line east yard. Bess keeps the radio coil for the wipe. 7 steps, arc on the left lane, open."}
 {"n":240,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east yard. arc left open. 8 steps. The radio coil stays for the wipe."}
+{"n":241,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Ward gate. Nobody past the north yard. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":242,"kind":"place","name":"Ward gate north yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Ward gate north yard. Matt keeps the plywood for the wipe. 3 steps, arc on the left lane, open."}
+{"n":243,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, north yard. arc left open. 4 steps. The plywood stays for the wipe."}
