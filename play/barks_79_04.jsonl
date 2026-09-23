@@ -982,3 +982,6 @@
 {"n":982,"kind":"place","name":"Last Light east yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light east yard. Matt keeps the lamp for the wipe. 3 steps, arc on the left lane, open."}
 {"n":983,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, east yard. arc left open. 4 steps. The lamp stays for the wipe."}
 {"n":984,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at Last Light. Nobody past the east yard. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":985,"kind":"place","name":"Last Light east yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Last Light east yard. Nia keeps the lamp for the wipe. 6 steps, arc on the left lane, open."}
+{"n":986,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Last Light, east yard. arc left open. 7 steps. The lamp stays for the wipe."}
+{"n":987,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the lamp at Last Light. Nobody past the east yard. We wipe in 8 steps. Arc on the left lane, open."}
