@@ -89,3 +89,6 @@
 {"n":89,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Mall court. Nobody past the south slip. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":90,"kind":"place","name":"Mall court south slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mall court south slip. Matt keeps the radio coil for the wipe. 2 steps, arc on the left lane, open."}
 {"n":91,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south slip. arc left open. 3 steps. The radio coil stays for the wipe."}
+{"n":92,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at Mall court. Nobody past the south slip. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":93,"kind":"place","name":"Mall court south slip","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mall court south slip. Nia keeps the radio coil for the wipe. 5 steps, arc on the left lane, open."}
+{"n":94,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, south slip. arc left open. 6 steps. The radio coil stays for the wipe."}
