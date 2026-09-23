@@ -646,3 +646,6 @@
 {"n":646,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at Stockyard fence. Nobody past the south yard. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":647,"kind":"place","name":"Stockyard fence south yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Stockyard fence south yard. Bess keeps the awning for the wipe. 6 steps, arc on the left lane, open."}
 {"n":648,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south yard. arc left open. 7 steps. The awning stays for the wipe."}
+{"n":649,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Mall court. Nobody past the south yard. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":650,"kind":"place","name":"Mall court south yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mall court south yard. Matt keeps the awning for the wipe. 2 steps, arc on the left lane, open."}
+{"n":651,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south yard. arc left open. 3 steps. The awning stays for the wipe."}
