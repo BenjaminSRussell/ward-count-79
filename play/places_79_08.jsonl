@@ -649,3 +649,6 @@
 {"n":649,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, south yard. arc left open. 2 steps. The barrel stays for the wipe."}
 {"n":650,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Mall court. Nobody past the south yard. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":651,"kind":"place","name":"Mall court south yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Mall court south yard. Bess keeps the barrel for the wipe. 4 steps, arc on the left lane, open."}
+{"n":652,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, south yard. arc left open. 5 steps. The barrel stays for the wipe."}
+{"n":653,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at the Underpass. Nobody past the south yard. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":654,"kind":"place","name":"the Underpass south yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Underpass south yard. Matt keeps the barrel for the wipe. 7 steps, arc on the left lane, open."}
