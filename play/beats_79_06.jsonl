@@ -886,3 +886,6 @@
 {"n":886,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at Switchyard. Nobody past the north yard. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":887,"kind":"place","name":"Switchyard north yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Switchyard north yard. Bess keeps the crate for the wipe. 4 steps, arc on the left lane, open."}
 {"n":888,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north yard. arc left open. 5 steps. The crate stays for the wipe."}
+{"n":889,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Drydock. Nobody past the north yard. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":890,"kind":"place","name":"Drydock north yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Drydock north yard. Matt keeps the crate for the wipe. 7 steps, arc on the left lane, open."}
+{"n":891,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north yard. arc left open. 8 steps. The crate stays for the wipe."}
