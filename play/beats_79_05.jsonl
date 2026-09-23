@@ -503,3 +503,6 @@
 {"n":503,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the shutter at South stair. Nobody past the east yard. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":504,"kind":"place","name":"South stair east yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"South stair east yard. Ivo keeps the shutter for the wipe. 7 steps, arc on the left lane, open."}
 {"n":505,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, east yard. arc left open. 8 steps. The shutter stays for the wipe."}
+{"n":506,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at South stair. Nobody past the east yard. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":507,"kind":"place","name":"South stair east yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"South stair east yard. Bess keeps the shutter for the wipe. 3 steps, arc on the left lane, open."}
+{"n":508,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, east yard. arc left open. 4 steps. The shutter stays for the wipe."}
