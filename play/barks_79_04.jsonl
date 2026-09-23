@@ -556,3 +556,6 @@
 {"n":556,"kind":"place","name":"High line east yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"High line east yard. Ivo keeps the hydrant for the wipe. 4 steps, arc on the left lane, open."}
 {"n":557,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east yard. arc left open. 5 steps. The hydrant stays for the wipe."}
 {"n":558,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at High line. Nobody past the east yard. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":559,"kind":"place","name":"High line east yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"High line east yard. Bess keeps the hydrant for the wipe. 7 steps, arc on the left lane, open."}
+{"n":560,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east yard. arc left open. 8 steps. The hydrant stays for the wipe."}
+{"n":561,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at Ward gate. Nobody past the east yard. We wipe in 2 steps. Arc on the left lane, open."}
