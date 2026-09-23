@@ -775,3 +775,6 @@
 {"n":775,"kind":"place","name":"Stockyard fence east yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Stockyard fence east yard. Bess keeps the crate for the wipe. 6 steps, arc on the left lane, open."}
 {"n":776,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east yard. arc left open. 7 steps. The crate stays for the wipe."}
 {"n":777,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Mall court. Nobody past the east yard. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":778,"kind":"place","name":"Mall court east yard","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Mall court east yard. Matt keeps the crate for the wipe. 2 steps, arc on the left lane, open."}
+{"n":779,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east yard. arc left open. 3 steps. The crate stays for the wipe."}
+{"n":780,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at Mall court. Nobody past the east yard. We wipe in 4 steps. Arc on the left lane, open."}
