@@ -83,3 +83,6 @@
 {"n":83,"kind":"place","name":"the Lot west yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot west yard. Bess keeps the rebar for the wipe. 8 steps, arc on the left lane, open."}
 {"n":84,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west yard. arc left open. 2 steps. The rebar stays for the wipe."}
 {"n":85,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at Stockyard fence. Nobody past the west yard. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":86,"kind":"place","name":"Stockyard fence west yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence west yard. Matt keeps the rebar for the wipe. 4 steps, arc on the left lane, open."}
+{"n":87,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, west yard. arc left open. 5 steps. The rebar stays for the wipe."}
+{"n":88,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rebar at Stockyard fence. Nobody past the west yard. We wipe in 6 steps. Arc on the left lane, open."}
