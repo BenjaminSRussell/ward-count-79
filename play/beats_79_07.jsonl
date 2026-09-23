@@ -885,3 +885,6 @@
 {"n":885,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Switchyard. Nobody past the north yard. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":886,"kind":"place","name":"Switchyard north yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Switchyard north yard. Matt keeps the drum for the wipe. 2 steps, arc on the left lane, open."}
 {"n":887,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, north yard. arc left open. 3 steps. The drum stays for the wipe."}
+{"n":888,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the drum at Switchyard. Nobody past the north yard. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":889,"kind":"place","name":"Switchyard north yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Switchyard north yard. Nia keeps the drum for the wipe. 5 steps, arc on the left lane, open."}
+{"n":890,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north yard. arc left open. 6 steps. The drum stays for the wipe."}
