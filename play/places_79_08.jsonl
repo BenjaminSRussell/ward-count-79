@@ -958,3 +958,6 @@
 {"n":958,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south yard. arc left open. 3 steps. The lamp stays for the wipe."}
 {"n":959,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the lamp at the Lot. Nobody past the south yard. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":960,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the Lot south yard. Ivo keeps the lamp for the wipe. 5 steps, arc on the left lane, open."}
+{"n":961,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south yard. arc left open. 6 steps. The lamp stays for the wipe."}
+{"n":962,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at the Lot. Nobody past the south yard. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":963,"kind":"place","name":"the Lot south yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot south yard. Bess keeps the lamp for the wipe. 8 steps, arc on the left lane, open."}
