@@ -53,3 +53,6 @@
 {"n":53,"kind":"place","name":"the Lot north slip","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Lot north slip. Nia keeps the radio coil for the wipe. 2 steps, arc on the left lane, open."}
 {"n":54,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north slip. arc left open. 3 steps. The radio coil stays for the wipe."}
 {"n":55,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the radio coil at the Lot. Nobody past the north slip. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":56,"kind":"place","name":"the Lot north slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Lot north slip. Ivo keeps the radio coil for the wipe. 5 steps, arc on the left lane, open."}
+{"n":57,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north slip. arc left open. 6 steps. The radio coil stays for the wipe."}
+{"n":58,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at the Lot. Nobody past the north slip. We wipe in 7 steps. Arc on the left lane, open."}
