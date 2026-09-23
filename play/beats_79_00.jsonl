@@ -742,3 +742,6 @@
 {"n":742,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at Stockyard fence. Nobody past the south slip. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":743,"kind":"place","name":"Stockyard fence south slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Stockyard fence south slip. Bess keeps the crate for the wipe. 6 steps, arc on the left lane, open."}
 {"n":744,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south slip. arc left open. 7 steps. The crate stays for the wipe."}
+{"n":745,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Mall court. Nobody past the south slip. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":746,"kind":"place","name":"Mall court south slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mall court south slip. Matt keeps the crate for the wipe. 2 steps, arc on the left lane, open."}
+{"n":747,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south slip. arc left open. 3 steps. The crate stays for the wipe."}
