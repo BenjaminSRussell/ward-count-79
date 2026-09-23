@@ -495,3 +495,6 @@
 {"n":495,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, west yard. arc left open. 7 steps. The shutter stays for the wipe."}
 {"n":496,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the shutter at the pier. Nobody past the west yard. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":497,"kind":"place","name":"the pier west yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"the pier west yard. Nia keeps the shutter for the wipe. 2 steps, arc on the left lane, open."}
+{"n":498,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, west yard. arc left open. 3 steps. The shutter stays for the wipe."}
+{"n":499,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the shutter at the pier. Nobody past the west yard. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":500,"kind":"place","name":"the pier west yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier west yard. Ivo keeps the shutter for the wipe. 5 steps, arc on the left lane, open."}
