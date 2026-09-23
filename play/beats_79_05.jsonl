@@ -908,3 +908,6 @@
 {"n":908,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the badge door at Ward gate. Nobody past the east yard. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":909,"kind":"place","name":"Ward gate east yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Ward gate east yard. Nia keeps the badge door for the wipe. 6 steps, arc on the left lane, open."}
 {"n":910,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, east yard. arc left open. 7 steps. The badge door stays for the wipe."}
+{"n":911,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the badge door at Ward gate. Nobody past the east yard. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":912,"kind":"place","name":"Ward gate east yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Ward gate east yard. Ivo keeps the badge door for the wipe. 2 steps, arc on the left lane, open."}
+{"n":913,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, east yard. arc left open. 3 steps. The badge door stays for the wipe."}
