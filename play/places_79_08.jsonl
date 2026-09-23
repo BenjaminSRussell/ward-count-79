@@ -748,3 +748,6 @@
 {"n":748,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south yard. arc left open. 3 steps. The barrel stays for the wipe."}
 {"n":749,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at High line. Nobody past the south yard. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":750,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line south yard. Matt keeps the barrel for the wipe. 5 steps, arc on the left lane, open."}
+{"n":751,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south yard. arc left open. 6 steps. The barrel stays for the wipe."}
+{"n":752,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at High line. Nobody past the south yard. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":753,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"High line south yard. Nia keeps the barrel for the wipe. 8 steps, arc on the left lane, open."}
