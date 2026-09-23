@@ -436,3 +436,6 @@
 {"n":436,"kind":"place","name":"the Underpass south slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the Underpass south slip. Ivo keeps the shutter for the wipe. 6 steps, arc on the left lane, open."}
 {"n":437,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, south slip. arc left open. 7 steps. The shutter stays for the wipe."}
 {"n":438,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at the Underpass. Nobody past the south slip. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":439,"kind":"place","name":"the Underpass south slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the Underpass south slip. Bess keeps the shutter for the wipe. 2 steps, arc on the left lane, open."}
+{"n":440,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, south slip. arc left open. 3 steps. The shutter stays for the wipe."}
+{"n":441,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at Mast yard. Nobody past the south slip. We wipe in 4 steps. Arc on the left lane, open."}
