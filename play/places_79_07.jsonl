@@ -641,3 +641,6 @@
 {"n":641,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mall court, north yard. arc left open. 2 steps. The awning stays for the wipe."}
 {"n":642,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at Mall court. Nobody past the north yard. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":643,"kind":"place","name":"Mall court north yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court north yard. Bess keeps the awning for the wipe. 4 steps, arc on the left lane, open."}
+{"n":644,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, north yard. arc left open. 5 steps. The awning stays for the wipe."}
+{"n":645,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at the Underpass. Nobody past the north yard. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":646,"kind":"place","name":"the Underpass north yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass north yard. Matt keeps the awning for the wipe. 7 steps, arc on the left lane, open."}
