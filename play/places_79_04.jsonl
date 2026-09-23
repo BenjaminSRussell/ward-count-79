@@ -695,3 +695,6 @@
 {"n":695,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east yard. arc left open. 3 steps. The barrel stays for the wipe."}
 {"n":696,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at Switchyard. Nobody past the east yard. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":697,"kind":"place","name":"Switchyard east yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard east yard. Nia keeps the barrel for the wipe. 5 steps, arc on the left lane, open."}
+{"n":698,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east yard. arc left open. 6 steps. The barrel stays for the wipe."}
+{"n":699,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the barrel at Switchyard. Nobody past the east yard. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":700,"kind":"place","name":"Switchyard east yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard east yard. Ivo keeps the barrel for the wipe. 8 steps, arc on the left lane, open."}
