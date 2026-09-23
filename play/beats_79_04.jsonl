@@ -351,3 +351,6 @@
 {"n":351,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the plywood at Clinic roof. Nobody past the east yard. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":352,"kind":"place","name":"Clinic roof east yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Clinic roof east yard. Ivo keeps the plywood for the wipe. 3 steps, arc on the left lane, open."}
 {"n":353,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, east yard. arc left open. 4 steps. The plywood stays for the wipe."}
+{"n":354,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at Clinic roof. Nobody past the east yard. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":355,"kind":"place","name":"Clinic roof east yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Clinic roof east yard. Bess keeps the plywood for the wipe. 6 steps, arc on the left lane, open."}
+{"n":356,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east yard. arc left open. 7 steps. The plywood stays for the wipe."}
