@@ -283,3 +283,6 @@
 {"n":283,"kind":"place","name":"Mall court east yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Mall court east yard. Bess keeps the plywood for the wipe. 4 steps, arc on the left lane, open."}
 {"n":284,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, east yard. arc left open. 5 steps. The plywood stays for the wipe."}
 {"n":285,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at the Underpass. Nobody past the east yard. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":286,"kind":"place","name":"the Underpass east yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the Underpass east yard. Matt keeps the plywood for the wipe. 7 steps, arc on the left lane, open."}
+{"n":287,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east yard. arc left open. 8 steps. The plywood stays for the wipe."}
+{"n":288,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at the Underpass. Nobody past the east yard. We wipe in 2 steps. Arc on the left lane, open."}
