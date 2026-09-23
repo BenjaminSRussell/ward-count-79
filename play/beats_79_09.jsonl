@@ -829,3 +829,6 @@
 {"n":829,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at the Underpass. Nobody past the south yard. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":830,"kind":"place","name":"the Underpass south yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Underpass south yard. Matt keeps the drum for the wipe. 7 steps, arc on the left lane, open."}
 {"n":831,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, south yard. arc left open. 8 steps. The drum stays for the wipe."}
+{"n":832,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the drum at the Underpass. Nobody past the south yard. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":833,"kind":"place","name":"the Underpass south yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"the Underpass south yard. Nia keeps the drum for the wipe. 3 steps, arc on the left lane, open."}
+{"n":834,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, south yard. arc left open. 4 steps. The drum stays for the wipe."}
