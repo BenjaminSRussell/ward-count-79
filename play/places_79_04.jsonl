@@ -947,3 +947,6 @@
 {"n":947,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east yard. arc left open. 3 steps. The lamp stays for the wipe."}
 {"n":948,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at Mall court. Nobody past the east yard. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":949,"kind":"place","name":"Mall court east yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"Mall court east yard. Nia keeps the lamp for the wipe. 5 steps, arc on the left lane, open."}
+{"n":950,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mall court, east yard. arc left open. 6 steps. The lamp stays for the wipe."}
+{"n":951,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the lamp at Mall court. Nobody past the east yard. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":952,"kind":"place","name":"Mall court east yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Mall court east yard. Ivo keeps the lamp for the wipe. 8 steps, arc on the left lane, open."}
