@@ -248,3 +248,6 @@
 {"n":248,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, south slip. arc left open. 7 steps. The rope stays for the wipe."}
 {"n":249,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rope at Mall court. Nobody past the south slip. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":250,"kind":"place","name":"Mall court south slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mall court south slip. Matt keeps the rope for the wipe. 2 steps, arc on the left lane, open."}
+{"n":251,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, south slip. arc left open. 3 steps. The rope stays for the wipe."}
+{"n":252,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rope at Mall court. Nobody past the south slip. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":253,"kind":"place","name":"Mall court south slip","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mall court south slip. Nia keeps the rope for the wipe. 5 steps, arc on the left lane, open."}
