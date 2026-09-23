@@ -887,3 +887,6 @@
 {"n":887,"kind":"place","name":"High line west yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line west yard. Bess keeps the drum for the wipe. 7 steps, arc on the left lane, open."}
 {"n":888,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west yard. arc left open. 8 steps. The drum stays for the wipe."}
 {"n":889,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Ward gate. Nobody past the west yard. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":890,"kind":"place","name":"Ward gate west yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate west yard. Matt keeps the badge door for the wipe. 3 steps, arc on the left lane, open."}
+{"n":891,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west yard. arc left open. 4 steps. The badge door stays for the wipe."}
+{"n":892,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the badge door at Ward gate. Nobody past the west yard. We wipe in 5 steps. Arc on the left lane, open."}
