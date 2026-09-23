@@ -18,3 +18,6 @@
 {"n":18,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at South stair. Nobody past the north yard. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":19,"kind":"place","name":"South stair north yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair north yard. Bess keeps the lamp for the wipe. 3 steps, arc on the left lane, open."}
 {"n":20,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north yard. arc left open. 4 steps. The lamp stays for the wipe."}
+{"n":21,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at the pier. Nobody past the north yard. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":22,"kind":"place","name":"the pier north yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the pier north yard. Matt keeps the lamp for the wipe. 6 steps, arc on the left lane, open."}
+{"n":23,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north yard. arc left open. 7 steps. The lamp stays for the wipe."}
