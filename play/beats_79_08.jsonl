@@ -584,3 +584,6 @@
 {"n":584,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the hydrant at High line. Nobody past the south yard. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":585,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"High line south yard. Nia keeps the hydrant for the wipe. 8 steps, arc on the left lane, open."}
 {"n":586,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south yard. arc left open. 2 steps. The hydrant stays for the wipe."}
+{"n":587,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the hydrant at High line. Nobody past the south yard. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":588,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"High line south yard. Ivo keeps the hydrant for the wipe. 4 steps, arc on the left lane, open."}
+{"n":589,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south yard. arc left open. 5 steps. The hydrant stays for the wipe."}
