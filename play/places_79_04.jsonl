@@ -827,3 +827,6 @@
 {"n":827,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, east yard. arc left open. 2 steps. The crate stays for the wipe."}
 {"n":828,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at South stair. Nobody past the east yard. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":829,"kind":"place","name":"South stair east yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"South stair east yard. Nia keeps the crate for the wipe. 4 steps, arc on the left lane, open."}
+{"n":830,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at South stair, east yard. arc left open. 5 steps. The crate stays for the wipe."}
+{"n":831,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the crate at South stair. Nobody past the east yard. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":832,"kind":"place","name":"South stair east yard","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"South stair east yard. Ivo keeps the crate for the wipe. 7 steps, arc on the left lane, open."}
