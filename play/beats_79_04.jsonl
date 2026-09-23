@@ -318,3 +318,6 @@
 {"n":318,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at Last Light. Nobody past the east yard. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":319,"kind":"place","name":"Last Light east yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Last Light east yard. Bess keeps the plywood for the wipe. 5 steps, arc on the left lane, open."}
 {"n":320,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east yard. arc left open. 6 steps. The plywood stays for the wipe."}
+{"n":321,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at South stair. Nobody past the east yard. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":322,"kind":"place","name":"South stair east yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"South stair east yard. Matt keeps the plywood for the wipe. 8 steps, arc on the left lane, open."}
+{"n":323,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, east yard. arc left open. 2 steps. The plywood stays for the wipe."}
