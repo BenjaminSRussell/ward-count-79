@@ -623,3 +623,6 @@
 {"n":623,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, east yard. arc left open. 8 steps. The barrel stays for the wipe."}
 {"n":624,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at the Underpass. Nobody past the east yard. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":625,"kind":"place","name":"the Underpass east yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass east yard. Nia keeps the barrel for the wipe. 3 steps, arc on the left lane, open."}
+{"n":626,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Underpass, east yard. arc left open. 4 steps. The barrel stays for the wipe."}
+{"n":627,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the barrel at the Underpass. Nobody past the east yard. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":628,"kind":"place","name":"the Underpass east yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Underpass east yard. Ivo keeps the barrel for the wipe. 6 steps, arc on the left lane, open."}
