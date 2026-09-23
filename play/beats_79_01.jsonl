@@ -492,3 +492,6 @@
 {"n":492,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the shutter at Clinic roof. Nobody past the south slip. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":493,"kind":"place","name":"Clinic roof south slip","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Clinic roof south slip. Nia keeps the shutter for the wipe. 7 steps, arc on the left lane, open."}
 {"n":494,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Clinic roof, south slip. arc left open. 8 steps. The shutter stays for the wipe."}
+{"n":495,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the shutter at Clinic roof. Nobody past the south slip. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":496,"kind":"place","name":"Clinic roof south slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Clinic roof south slip. Ivo keeps the shutter for the wipe. 3 steps, arc on the left lane, open."}
+{"n":497,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, south slip. arc left open. 4 steps. The shutter stays for the wipe."}
