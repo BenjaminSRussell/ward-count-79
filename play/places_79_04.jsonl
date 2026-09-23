@@ -140,3 +140,6 @@
 {"n":140,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, west yard. arc left open. 8 steps. The radio coil stays for the wipe."}
 {"n":141,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Last Light. Nobody past the west yard. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":142,"kind":"place","name":"Last Light west yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light west yard. Matt keeps the radio coil for the wipe. 3 steps, arc on the left lane, open."}
+{"n":143,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, west yard. arc left open. 4 steps. The radio coil stays for the wipe."}
+{"n":144,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the radio coil at Last Light. Nobody past the west yard. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":145,"kind":"place","name":"Last Light west yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Last Light west yard. Nia keeps the radio coil for the wipe. 6 steps, arc on the left lane, open."}
