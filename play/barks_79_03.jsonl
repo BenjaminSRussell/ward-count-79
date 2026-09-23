@@ -896,3 +896,6 @@
 {"n":896,"kind":"place","name":"Ward gate west yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Ward gate west yard. Ivo keeps the badge door for the wipe. 2 steps, arc on the left lane, open."}
 {"n":897,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west yard. arc left open. 3 steps. The badge door stays for the wipe."}
 {"n":898,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the badge door at Ward gate. Nobody past the west yard. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":899,"kind":"place","name":"Ward gate west yard","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Ward gate west yard. Bess keeps the badge door for the wipe. 5 steps, arc on the left lane, open."}
+{"n":900,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west yard. arc left open. 6 steps. The badge door stays for the wipe."}
+{"n":901,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at Kessler alley. Nobody past the west yard. We wipe in 7 steps. Arc on the left lane, open."}
