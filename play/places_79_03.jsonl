@@ -873,3 +873,6 @@
 {"n":873,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west yard. arc left open. 7 steps. The drum stays for the wipe."}
 {"n":874,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the drum at Drydock. Nobody past the west yard. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":875,"kind":"place","name":"Drydock west yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Drydock west yard. Bess keeps the drum for the wipe. 2 steps, arc on the left lane, open."}
+{"n":876,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, west yard. arc left open. 3 steps. The drum stays for the wipe."}
+{"n":877,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at High line. Nobody past the west yard. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":878,"kind":"place","name":"High line west yard","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"High line west yard. Matt keeps the drum for the wipe. 5 steps, arc on the left lane, open."}
