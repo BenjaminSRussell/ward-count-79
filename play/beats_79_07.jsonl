@@ -222,3 +222,6 @@
 {"n":222,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rebar at Switchyard. Nobody past the north yard. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":223,"kind":"place","name":"Switchyard north yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Switchyard north yard. Bess keeps the rebar for the wipe. 4 steps, arc on the left lane, open."}
 {"n":224,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north yard. arc left open. 5 steps. The rebar stays for the wipe."}
+{"n":225,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at Drydock. Nobody past the north yard. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":226,"kind":"place","name":"Drydock north yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Drydock north yard. Matt keeps the rebar for the wipe. 7 steps, arc on the left lane, open."}
+{"n":227,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north yard. arc left open. 8 steps. The rebar stays for the wipe."}
