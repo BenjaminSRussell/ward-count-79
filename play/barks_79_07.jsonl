@@ -544,3 +544,6 @@
 {"n":544,"kind":"place","name":"Clinic roof north yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Clinic roof north yard. Ivo keeps the shutter for the wipe. 3 steps, arc on the left lane, open."}
 {"n":545,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, north yard. arc left open. 4 steps. The shutter stays for the wipe."}
 {"n":546,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at Clinic roof. Nobody past the north yard. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":547,"kind":"place","name":"Clinic roof north yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Clinic roof north yard. Bess keeps the shutter for the wipe. 6 steps, arc on the left lane, open."}
+{"n":548,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, north yard. arc left open. 7 steps. The shutter stays for the wipe."}
+{"n":549,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at Switchyard. Nobody past the north yard. We wipe in 8 steps. Arc on the left lane, open."}
