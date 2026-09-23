@@ -430,3 +430,6 @@
 {"n":430,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at Kessler alley. Nobody past the north yard. We wipe in 2 steps. Arc on the left lane, open."}
 {"n":431,"kind":"place","name":"Kessler alley north yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Kessler alley north yard. Bess keeps the hydrant for the wipe. 3 steps, arc on the left lane, open."}
 {"n":432,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, north yard. arc left open. 4 steps. The hydrant stays for the wipe."}
+{"n":433,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at the Lot. Nobody past the north yard. We wipe in 5 steps. Arc on the left lane, open."}
+{"n":434,"kind":"place","name":"the Lot north yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"the Lot north yard. Matt keeps the hydrant for the wipe. 6 steps, arc on the left lane, open."}
+{"n":435,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north yard. arc left open. 7 steps. The hydrant stays for the wipe."}
