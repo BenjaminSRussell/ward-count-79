@@ -256,3 +256,6 @@
 {"n":256,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rebar at High line. Nobody past the south yard. We wipe in 7 steps. Arc on the left lane, open."}
 {"n":257,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"High line south yard. Nia keeps the rebar for the wipe. 8 steps, arc on the left lane, open."}
 {"n":258,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, south yard. arc left open. 2 steps. The rebar stays for the wipe."}
+{"n":259,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rebar at High line. Nobody past the south yard. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":260,"kind":"place","name":"High line south yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"High line south yard. Ivo keeps the rebar for the wipe. 4 steps, arc on the left lane, open."}
+{"n":261,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south yard. arc left open. 5 steps. The rebar stays for the wipe."}
