@@ -749,3 +749,6 @@
 {"n":749,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, north yard. arc left open. 5 steps. The awning stays for the wipe."}
 {"n":750,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at High line. Nobody past the north yard. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":751,"kind":"place","name":"High line north yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line north yard. Bess keeps the awning for the wipe. 7 steps, arc on the left lane, open."}
+{"n":752,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, north yard. arc left open. 8 steps. The awning stays for the wipe."}
+{"n":753,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the drum at Ward gate. Nobody past the north yard. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":754,"kind":"place","name":"Ward gate north yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate north yard. Matt keeps the drum for the wipe. 3 steps, arc on the left lane, open."}
