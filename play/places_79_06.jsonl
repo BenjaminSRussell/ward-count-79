@@ -684,3 +684,6 @@
 {"n":684,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, north yard. arc left open. 4 steps. The barrel stays for the wipe."}
 {"n":685,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at the pier. Nobody past the north yard. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":686,"kind":"place","name":"the pier north yard","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier north yard. Matt keeps the barrel for the wipe. 6 steps, arc on the left lane, open."}
+{"n":687,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, north yard. arc left open. 7 steps. The barrel stays for the wipe."}
+{"n":688,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at the pier. Nobody past the north yard. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":689,"kind":"place","name":"the pier north yard","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the pier north yard. Nia keeps the barrel for the wipe. 2 steps, arc on the left lane, open."}
