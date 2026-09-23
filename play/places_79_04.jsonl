@@ -272,3 +272,6 @@
 {"n":272,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, east yard. arc left open. 7 steps. The plywood stays for the wipe."}
 {"n":273,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Mall court. Nobody past the east yard. We wipe in 8 steps. Arc on the left lane, open."}
 {"n":274,"kind":"place","name":"Mall court east yard","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Mall court east yard. Matt keeps the plywood for the wipe. 2 steps, arc on the left lane, open."}
+{"n":275,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, east yard. arc left open. 3 steps. The plywood stays for the wipe."}
+{"n":276,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at Mall court. Nobody past the east yard. We wipe in 4 steps. Arc on the left lane, open."}
+{"n":277,"kind":"place","name":"Mall court east yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Mall court east yard. Nia keeps the plywood for the wipe. 5 steps, arc on the left lane, open."}
