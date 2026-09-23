@@ -55,3 +55,6 @@
 {"n":55,"kind":"place","name":"Switchyard north yard","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Switchyard north yard. Bess keeps the lamp for the wipe. 4 steps, arc on the left lane, open."}
 {"n":56,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north yard. arc left open. 5 steps. The lamp stays for the wipe."}
 {"n":57,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Drydock. Nobody past the north yard. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":58,"kind":"place","name":"Drydock north yard","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Drydock north yard. Matt keeps the lamp for the wipe. 7 steps, arc on the left lane, open."}
+{"n":59,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north yard. arc left open. 8 steps. The lamp stays for the wipe."}
+{"n":60,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the lamp at Drydock. Nobody past the north yard. We wipe in 2 steps. Arc on the left lane, open."}
