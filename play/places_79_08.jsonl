@@ -55,3 +55,6 @@
 {"n":55,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, north yard. arc left open. 3 steps. The badge door stays for the wipe."}
 {"n":56,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the badge door at Switchyard. Nobody past the north yard. We wipe in 4 steps. Arc on the left lane, open."}
 {"n":57,"kind":"place","name":"Switchyard north yard","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard north yard. Nia keeps the badge door for the wipe. 5 steps, arc on the left lane, open."}
+{"n":58,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, north yard. arc left open. 6 steps. The badge door stays for the wipe."}
+{"n":59,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the badge door at Switchyard. Nobody past the north yard. We wipe in 7 steps. Arc on the left lane, open."}
+{"n":60,"kind":"place","name":"Switchyard north yard","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Switchyard north yard. Ivo keeps the badge door for the wipe. 8 steps, arc on the left lane, open."}
