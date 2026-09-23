@@ -366,3 +366,6 @@
 {"n":366,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Drydock, west yard. arc left open. 4 steps. The rope stays for the wipe."}
 {"n":367,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the rope at Drydock. Nobody past the west yard. We wipe in 5 steps. Arc on the left lane, open."}
 {"n":368,"kind":"place","name":"Drydock west yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock west yard. Ivo keeps the rope for the wipe. 6 steps, arc on the left lane, open."}
+{"n":369,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, west yard. arc left open. 7 steps. The rope stays for the wipe."}
+{"n":370,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rope at Drydock. Nobody past the west yard. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":371,"kind":"place","name":"Drydock west yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock west yard. Bess keeps the rope for the wipe. 2 steps, arc on the left lane, open."}
