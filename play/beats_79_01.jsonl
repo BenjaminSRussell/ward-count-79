@@ -618,3 +618,6 @@
 {"n":618,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at Mast yard. Nobody past the south slip. We wipe in 6 steps. Arc on the left lane, open."}
 {"n":619,"kind":"place","name":"Mast yard south slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Mast yard south slip. Bess keeps the awning for the wipe. 7 steps, arc on the left lane, open."}
 {"n":620,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, south slip. arc left open. 8 steps. The awning stays for the wipe."}
+{"n":621,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Last Light. Nobody past the south slip. We wipe in 2 steps. Arc on the left lane, open."}
+{"n":622,"kind":"place","name":"Last Light south slip","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Last Light south slip. Matt keeps the awning for the wipe. 3 steps, arc on the left lane, open."}
+{"n":623,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Last Light, south slip. arc left open. 4 steps. The awning stays for the wipe."}
