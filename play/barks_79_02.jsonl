@@ -453,3 +453,6 @@
 {"n":453,"kind":"place","name":"Mast yard west yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Mast yard west yard. Nia keeps the hydrant for the wipe. 8 steps, arc on the left lane, open."}
 {"n":454,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Mast yard, west yard. arc left open. 2 steps. The hydrant stays for the wipe."}
 {"n":455,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the hydrant at Mast yard. Nobody past the west yard. We wipe in 3 steps. Arc on the left lane, open."}
+{"n":456,"kind":"place","name":"Mast yard west yard","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Mast yard west yard. Ivo keeps the hydrant for the wipe. 4 steps, arc on the left lane, open."}
+{"n":457,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, west yard. arc left open. 5 steps. The hydrant stays for the wipe."}
+{"n":458,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at Mast yard. Nobody past the west yard. We wipe in 6 steps. Arc on the left lane, open."}
