@@ -880,3 +880,6 @@
 {"n":880,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, south yard. arc left open. 2 steps. The crate stays for the wipe."}
 {"n":881,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Clinic roof. Nobody past the south yard. We wipe in 3 steps. Arc on the left lane, open."}
 {"n":882,"kind":"place","name":"Clinic roof south yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Clinic roof south yard. Matt keeps the crate for the wipe. 4 steps, arc on the left lane, open."}
+{"n":883,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Clinic roof, south yard. arc left open. 5 steps. The crate stays for the wipe."}
+{"n":884,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at Clinic roof. Nobody past the south yard. We wipe in 6 steps. Arc on the left lane, open."}
+{"n":885,"kind":"place","name":"Clinic roof south yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Clinic roof south yard. Nia keeps the crate for the wipe. 7 steps, arc on the left lane, open."}
