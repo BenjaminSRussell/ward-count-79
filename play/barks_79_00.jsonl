@@ -92,3 +92,6 @@
 {"n":92,"kind":"place","name":"the Underpass north slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Underpass north slip. Ivo keeps the radio coil for the wipe. 6 steps, arc on the left lane, open."}
 {"n":93,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Underpass, north slip. arc left open. 7 steps. The radio coil stays for the wipe."}
 {"n":94,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at the Underpass. Nobody past the north slip. We wipe in 8 steps. Arc on the left lane, open."}
+{"n":95,"kind":"place","name":"the Underpass north slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"the Underpass north slip. Bess keeps the radio coil for the wipe. 2 steps, arc on the left lane, open."}
+{"n":96,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, north slip. arc left open. 3 steps. The radio coil stays for the wipe."}
+{"n":97,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Mast yard. Nobody past the north slip. We wipe in 4 steps. Arc on the left lane, open."}
